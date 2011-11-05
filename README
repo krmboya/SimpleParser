@@ -1,0 +1,9 @@
+A simple Regular Expressions example in Python
+
+It parses the text file, which contains downloaded HTML from: http://www.enotes.com/importance-being-text/act-i which is Act 1 of The Importance of Being Earnest by Oscar Wilde.
+
+It finds the character with:
+- the most number of lines
+- the most number of words
+- the most number of exclamations
+- the most number of questions.
